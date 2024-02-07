@@ -1,7 +1,7 @@
 <img src="https://res.cloudinary.com/dlru9kd0x/image/upload/v1679688236/new%20societies/text2photo-3cc1b6b74df1c8719fef019a0397ff8f_pjqhuo.jpg" />
 
 # 💫 About Me:
-🔭 I’m currently doing ML/AIStack<br>👯 I’m looking to collaborate on Hackathon Projects<br>🤝 I’m looking for internship opportunities<br>💬 Ask me about ReactJS
+🔭 I’m currently doing ML/AI <br>👯 I’m looking to collaborate on Hackathon Projects<br>🤝 I’m looking for internship opportunities<br>💬 Ask me about ReactJS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-8ab36b1a1)
